@@ -2,6 +2,7 @@
 
 Dataset : used dataset from kaggle
 
+# Steps:
 
 1.Import Necessary Libraries: The code begins by importing essential libraries, including TensorFlow for deep learning, scikit-learn for evaluation metrics, Gradio for creating a user interface, and more.
 
@@ -30,3 +31,12 @@ Dataset : used dataset from kaggle
 13.Launch the Gradio Interface: The Gradio interface is launched, making the forest fire detection model accessible to users through a user-friendly web interface.
 
 This code combines deep learning, data preprocessing, model training, evaluation, and user interface creation to build a forest fire detection system using a CNN model. Users can upload images, and the model provides predictions on whether the image contains a forest fire or not.
+
+
+
+
+
+
+
+
+
