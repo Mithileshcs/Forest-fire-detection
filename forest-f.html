@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forest Fire Prediction</title>
+    
+    <!-- Custom CSS styles for the interface -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #622cb8;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: #961b1b;
+            margin-top: 20px;
+        }
+
+        iframe {
+            width: 100%;
+            max-width: 800px;
+            height: 600px;
+            border: none;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            background-color: #24b068;
+        }
+
+        .container {
+            background-color: #9b4386;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .instructions {
+            color: #350e0e;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+
+        /* Hide "Use via API" and "Built with Gradio" */
+        .gradio-powered-by {
+            display: none;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Forest Fire Prediction</h1>
+        
+        <!-- Embed Gradio Interface using an iframe -->
+        <iframe src="gradio endpoit link"></iframe>
+
+        <p class="instructions">Upload an image to predict forest fire presence or absence.</p>
+
+        <!-- Additional content or instructions can be added here -->
+    </div>
+</body>
+</html>

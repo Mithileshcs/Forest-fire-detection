@@ -1,0 +1,5 @@
+-> Tensorflow
+-> Numpy
+-> Gradio
+-> Matplotlib
+-> PILLOW
