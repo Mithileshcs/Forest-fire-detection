@@ -34,7 +34,9 @@ This code combines deep learning, data preprocessing, model training, evaluation
 
 
 
+# Output
 
+<img width="1239" alt="output-1" src="https://github.com/Mithileshcs/Forest-fire-detection/assets/94213698/7c60ae20-2694-400a-aefb-60be364b4244">
 
 
 
